@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thombs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# log files
+*.log
+
+# Environment files(Most Important)
+.env
+
+# temporary files
+*.tmp
+*.swp
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Environment folders
+venv/
+.env/
+.venv/
+
+# Package folders
+build/
+dist/
+*.egg-info/
